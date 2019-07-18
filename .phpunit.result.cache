@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":168:{a:2:{s:7:"defects";a:1:{s:48:"StatesControllerTest::testShouldReturnAllStateus";i:3;}s:5:"times";a:1:{s:48:"StatesControllerTest::testShouldReturnAllStateus";d:0.384;}}}
